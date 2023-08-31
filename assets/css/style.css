@@ -104,16 +104,20 @@
   margin: 0 auto;
   left: 0;
   right: 0;
-  bottom: 120px;
+  bottom: -90px;
 }
 
 .box-info{
   background: #fff;
-  width: 23.7%;
+  width: 23%;
   float:left;
   margin-right: 20px;
   text-align: center;
   /* padding: 20px 20px; */
+}
+
+.box-info:nth-child(4){
+  margin-right: 0px;
 }
 
 .icon-cate{
