@@ -116,6 +116,15 @@
   /* padding: 20px 20px; */
 }
 
+.box-info-main{
+  background: #fff;
+  width: 23%;
+  float:left;
+  margin-right: 20px;
+  text-align: center;
+  /* padding: 20px 20px; */
+}
+
 .box-info:nth-child(4){
   margin-right: 0px;
 }
@@ -149,4 +158,27 @@
   width: 600px;
   margin: 0 auto;
   padding: 20px 20px;
+}
+
+.box-img img{
+  width: 100%;
+}
+
+.title-page{
+  text-align: left;
+  padding: 20px 0px 10px 0px;
+}
+
+.title-page h3{
+  font-size: 16px;
+  color: #46bd55;
+}
+
+.description-page{
+  text-align: left;
+  padding: 0px;
+}
+
+.content{
+  padding: 0px 0px 50px 0px;
 }
