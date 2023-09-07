@@ -182,3 +182,29 @@
 .content{
   padding: 0px 0px 50px 0px;
 }
+
+.recent-post{
+  padding: 50px 0;
+  background: #f0f0f0;
+}
+
+.recent-description{
+  width: 600px;
+  margin:  0 auto;
+  padding: 15px 0;
+}
+
+.box-recent-post{
+  width: 30.9%;
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.box-recent-img img{
+  width: 100%;
+}
+
+.page-description-recent{
+  text-align: left;
+}
